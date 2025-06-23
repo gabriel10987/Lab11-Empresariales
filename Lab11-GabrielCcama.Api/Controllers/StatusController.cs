@@ -9,6 +9,6 @@ public class StatusController : ControllerBase
     [HttpGet]
     public IActionResult Get()
     {
-        return Ok("Versión 1.0 - Despliegue exitoso");
+        return Ok("Despliegue exitoso. API Lab11 corriendo correctamente");
     }
 }
