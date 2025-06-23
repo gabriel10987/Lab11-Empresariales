@@ -9,3 +9,4 @@ C:\Users\GabrielAdm\RiderProjects\Lab11-GabrielCcama\Lab11-GabrielCcama.Domain\o
 C:\Users\GabrielAdm\RiderProjects\Lab11-GabrielCcama\Lab11-GabrielCcama.Domain\obj\Debug\net8.0\refint\Lab11-GabrielCcama.Domain.dll
 C:\Users\GabrielAdm\RiderProjects\Lab11-GabrielCcama\Lab11-GabrielCcama.Domain\obj\Debug\net8.0\Lab11-GabrielCcama.Domain.pdb
 C:\Users\GabrielAdm\RiderProjects\Lab11-GabrielCcama\Lab11-GabrielCcama.Domain\obj\Debug\net8.0\ref\Lab11-GabrielCcama.Domain.dll
+C:\Users\GabrielAdm\RiderProjects\Lab11-GabrielCcama\Lab11-GabrielCcama.Domain\obj\Debug\net8.0\Lab11-GabrielCcama.Domain.sourcelink.json
