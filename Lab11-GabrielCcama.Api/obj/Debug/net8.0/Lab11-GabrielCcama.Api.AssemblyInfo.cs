@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab11-GabrielCcama.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4791dd8cb5382f2a5369094c586675f0f2f64406")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b01afe72d7eaa788d1b5f1ac147d06f19ddbc9c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab11-GabrielCcama.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab11-GabrielCcama.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
